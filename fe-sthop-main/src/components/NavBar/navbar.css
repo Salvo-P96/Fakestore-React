@@ -1,0 +1,23 @@
+
+.navbar{
+    border-bottom: 1px solid #00000055;
+}
+
+.searchBar{
+    display: flex;
+    flex-direction: row !important;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    margin-right: 20px;
+  }
+  
+  .navbar-collapse{
+    justify-content: space-between !important;
+    
+  }
+
+  
+  .navbar-brand{
+    margin-left: 20px;
+  }
